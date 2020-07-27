@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "818023635711",
+    "firebase_url": "https://zoomersclothing.firebaseio.com",
+    "project_id": "zoomersclothing",
+    "storage_bucket": "zoomersclothing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818023635711:android:713f759572df49061c8aca",
+        "android_client_info": {
+          "package_name": "apolonio.zoomer_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818023635711-pgg780kktjq63b3pb9551aor18a0p5un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_F3xRuEczjsQY7Ng70mZ6f03RB2oEOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818023635711-pgg780kktjq63b3pb9551aor18a0p5un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818023635711:android:feba9886deca29791c8aca",
+        "android_client_info": {
+          "package_name": "br.com.apolonio.zoomersclothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818023635711-pgg780kktjq63b3pb9551aor18a0p5un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_F3xRuEczjsQY7Ng70mZ6f03RB2oEOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818023635711-pgg780kktjq63b3pb9551aor18a0p5un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818023635711:android:e599c74fa9413c281c8aca",
+        "android_client_info": {
+          "package_name": "br.com.apolonio.zoomerstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818023635711-pgg780kktjq63b3pb9551aor18a0p5un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_F3xRuEczjsQY7Ng70mZ6f03RB2oEOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818023635711-pgg780kktjq63b3pb9551aor18a0p5un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
